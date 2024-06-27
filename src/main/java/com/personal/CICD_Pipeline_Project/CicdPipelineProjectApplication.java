@@ -18,12 +18,4 @@ public class CicdPipelineProjectApplication {
 		return "Welcome to CICD Pipeline Project !!!";
 	}
 
-//	echo "# CICD-Pipeline-Project" >> README.md
-//	git init
-//	git add README.md
-//	git commit -m "first commit"
-//	git branch -M main
-//	git remote add origin https://github.com/Swapnil21droid/CICD-Pipeline-Project.git
-//	git push -u origin main
-
 }
